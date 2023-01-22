@@ -1,6 +1,6 @@
 # thefeproject_prod
 
 * THE FE PROJECT is a site for learners of ITPEC FE.
-* I have released beta version of a quiz app with 1,520 old questions.
+* A beta version of a quiz app with 1,520 old questions is available at: 
 
-demo: https://quiz.thefeproject.org
+https://quiz.thefeproject.org
